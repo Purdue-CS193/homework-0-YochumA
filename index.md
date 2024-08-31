@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+# Ava Yochum's First CS193 Homework!
+
+Things I like about CS193:
+- The vibe is really chill and fun
+- You guys are very enthusiastic while lecturing
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
